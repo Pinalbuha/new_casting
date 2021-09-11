@@ -1,5 +1,5 @@
 #!/bin/sh
-export DATABASE_URL='postgresql://postgres:host123@localhost:5432/casting'
+export DATABASE_URL='postgres://baegzfnndsjnyv:7eef00fa393d643afa8c7d4664ebd6caecb94a87c0d53deaf38c2737f88a3695@ec2-52-7-159-155.compute-1.amazonaws.com:5432/d3ll877j9cd7m7'
 export TEST_DATABASE_URL='postgresql://postgres:host123@localhost:5432/casting_test'
 export AUTH0_DOMAIN='pinal9.us.auth0.com'
 export API_AUDIENCE='casting-agency'
